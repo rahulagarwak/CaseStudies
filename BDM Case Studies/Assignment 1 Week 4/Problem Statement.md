@@ -3,15 +3,10 @@
 ## Company Assigned - ACC Cement
 Prepare a report on the financial position of the company assigned to you. Consider the consolidated performance of the firm in the analysis.
 
-1) Analyze the revenue trend over the last 5 years (construct a bar chart/line chart).
+1. Analyze the revenue trend over the last 5 years (construct a bar chart/line chart).
+2. Analyze the net profit trend over the last 5 years (construct a bar chart/line chart).
 
-2) Analyze the net profit trend over the last 5 years (construct a bar chart/line chart).
-
-3) Compare the key financial ratios (such as Current ratio; Acid test/Quick ratio; Earnings per share; Price earnings ratio; EV/EBITDA; Net profit; Net profit
-
-margin (%); Return on capital employed (%); Return on assets (%); Asset turnover ratio (%); Inventory turnover ratio; Debtor days) over the last 5 years and
-
-derive insights on the financial performance of the firm based on the ratios (construct a table).
+3) Compare the key financial ratios (such as Current ratio; Acid test/Quick ratio; Earnings per share; Price earnings ratio; EV/EBITDA; Net profit; Net profit margin (%); Return on capital employed (%); Return on assets (%); Asset turnover ratio (%); Inventory turnover ratio; Debtor days) over the last 5 years and derive insights on the financial performance of the firm based on the ratios (construct a table).
 
 4) Present the shareholding of the company and its variation over a period of time (construct a bar chart/pie chart).
 
