@@ -1,3 +1,6 @@
+#BDM Assignment Week 4
+
+## Company Assigned - ACC Cement
 Prepare a report on the financial position of the company assigned to you. Consider the consolidated performance of the firm in the analysis.
 
 1) Analyze the revenue trend over the last 5 years (construct a bar chart/line chart).
